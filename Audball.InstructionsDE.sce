@@ -21,7 +21,7 @@ bitmap { filename = "CorrectLookCircle.bmp";} YesLook;
 bitmap { filename = "CorrectLook.bmp";} Look;
 bitmap { filename = "BlankSubject.bmp";} sub;
 
-wavefile { filename = "AODinstruct1KR.wav"; } adi1;
+wavefile { filename = "AODinstruct1DE.wav"; } adi1;
 sound {
     wavefile adi1;
     attenuation = 0.2;
@@ -39,25 +39,25 @@ sound {
     attenuation = 0.42;
 } standard;
 
-wavefile { filename = "AODinstruct2KR.wav"; } adi2;
+wavefile { filename = "AODinstruct2DE.wav"; } adi2;
 sound {
     wavefile adi2;
     attenuation = 0.2;
 } aod2Instruction;
 
-wavefile { filename = "AODinstruct3KR.wav"; } adi3;
+wavefile { filename = "AODinstruct3DE.wav"; } adi3;
 sound {
     wavefile adi3;
     attenuation = 0.2;
 } aod3Instruction;
 
-wavefile { filename = "AODinstruct4KR.wav"; } adi4;
+wavefile { filename = "AODinstruct4DE.wav"; } adi4;
 sound {
     wavefile adi4;
     attenuation = 0.2;
 } aod4Instruction;
 
-wavefile { filename = "AODinstruct5KR.wav"; } adi5;
+wavefile { filename = "AODinstruct5DE.wav"; } adi5;
 sound {
     wavefile adi5;
     attenuation = 0.2;

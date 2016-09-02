@@ -1,5 +1,5 @@
 <ver>15</ver>
-<efn>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\HarmonizationKR.exp</efn>
+<efn>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\HarmonizationDE.exp</efn>
 <author></author>
 <con>
 <pause>P</pause>
@@ -28,14 +28,14 @@
 <dmr>60</dmr>
 <dmw>1920</dmw>
 <dp_list></dp_list>
-<dsd>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\stimuli</dsd>
+<dsd>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationDE\stimuli</dsd>
 <dxv>8</dxv>
 <efs>
-<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\Audball Instructions.sce</filename>
-<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\Audball.sce</filename>
-<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\MMN Instructions.sce</filename>
-<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\MMNa.sce</filename>
-<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\MMNb.sce</filename>
+<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationDE\Audball Instructions.sce</filename>
+<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationDE\Audball.sce</filename>
+<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationDE\MMN Instructions.sce</filename>
+<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationDE\MMNa.sce</filename>
+<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationDE\MMNb.sce</filename>
 <filename>F:\harmonization\Instructions.sce</filename>
 <filename>C:\Program Files\Neurobehavioral Systems\Presentation\NAPLS\nvmmn 2.0\nvMMNa5.sce</filename>
 <filename>C:\Program Files\Neurobehavioral Systems\Presentation\NAPLS\nvmmn 2.0\nvMMNb5.sce</filename>
@@ -44,11 +44,11 @@
 <filename>C:\Documents and Settings\Brian\Desktop\NAPLS\nvmmn\nvMMNb10.sce</filename>
 <filename>C:\Documents and Settings\Brian\Desktop\NAPLS\nvmmn\nvMMNc10.sce</filename>
 <filename>C:\Documents and Settings\Brian\Desktop\NAPLS\nvmmn\nvMMN.sce</filename>
-<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\nvMMNCommands.pcl</filename>
-<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\nvMMN.tem</filename>
+<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationDE\nvMMNCommands.pcl</filename>
+<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationDE\nvMMN.tem</filename>
 <filename>F:\harmonization\NA1.sce</filename>
-<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\Audball InstructionsKR.sce</filename>
-<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\MMN InstructionsKR.sce</filename>
+<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\Audball InstructionsDE.sce</filename>
+<filename>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\MMN InstructionsDE.sce</filename>
 </efs>
 <exclusive_mouse>1</exclusive_mouse>
 <experiment_id></experiment_id>
@@ -108,7 +108,7 @@
 </chan>
 </ip_chans>
 <isb>10000</isb>
-<lfd>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\logfiles</lfd>
+<lfd>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationDE\logfiles</lfd>
 <lnb>2</lnb>
 <lno>3</lno>
 <log>
@@ -126,7 +126,7 @@
 <lol>1</lol>
 <lpr>test</lpr>
 <mss>4</mss>
-<nam>NAPLS3 Harmonization ERP Protocol (Korean Instructions)</nam>
+<nam>NAPLS3 Harmonization ERP Protocol (German Instructions)</nam>
 <one_processor>1</one_processor>
 <oports>
 <p>
@@ -425,7 +425,7 @@
 <sfn>all_scenarios</sfn>
 </sce>
 <sce>
-<sfn>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\Audball InstructionsKR.sce</sfn>
+<sfn>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationDE\Audball InstructionsDE.sce</sfn>
 </sce>
 <sce>
 <idv>
@@ -442,27 +442,10 @@
 <idn>MotioninJoy Virtual Game Controller</idn>
 <offset>55</offset>
 </idv>
-<sfn>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\Audball.sce</sfn>
+<sfn>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationDE\Audball.sce</sfn>
 </sce>
 <sce>
-<sfn>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\MMN InstructionsKR.sce</sfn>
-</sce>
-<sce>
-<idv>
-<device_type>3</device_type>
-<dx_device_type>19</dx_device_type>
-<ibn>Backspace</ibn>
-<idn>Keyboard</idn>
-<offset>14</offset>
-</idv>
-<idv>
-<device_type>4</device_type>
-<dx_device_type>24</dx_device_type>
-<ibn>R1</ibn>
-<idn>MotioninJoy Virtual Game Controller</idn>
-<offset>55</offset>
-</idv>
-<sfn>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\MMNa.sce</sfn>
+<sfn>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationDE\MMN InstructionsDE.sce</sfn>
 </sce>
 <sce>
 <idv>
@@ -479,7 +462,24 @@
 <idn>MotioninJoy Virtual Game Controller</idn>
 <offset>55</offset>
 </idv>
-<sfn>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationKR\MMNb.sce</sfn>
+<sfn>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationDE\MMNa.sce</sfn>
+</sce>
+<sce>
+<idv>
+<device_type>3</device_type>
+<dx_device_type>19</dx_device_type>
+<ibn>Backspace</ibn>
+<idn>Keyboard</idn>
+<offset>14</offset>
+</idv>
+<idv>
+<device_type>4</device_type>
+<dx_device_type>24</dx_device_type>
+<ibn>R1</ibn>
+<idn>MotioninJoy Virtual Game Controller</idn>
+<offset>55</offset>
+</idv>
+<sfn>C:\Program Files\Neurobehavioral Systems\Presentation\Harmonization-master\harmonizationDE\MMNb.sce</sfn>
 </sce>
 <sct>
 <capture_device>

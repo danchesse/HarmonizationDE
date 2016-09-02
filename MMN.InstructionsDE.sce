@@ -1,4 +1,4 @@
-scenario = "Visual Oddball Instructions (Korean Version)";
+scenario = "Visual Oddball Instructions (German Version)";
 scenario_type = trials;
 
 # sets the default text font
@@ -24,7 +24,7 @@ bitmap { filename = "F.pcx";} F;
 bitmap { filename = "T.pcx";} T;
 bitmap { filename = "default.pcx";} blankPCX;
 
-wavefile { filename = "nvmmn_instructionsKR.wav"; } visInstruct;
+wavefile { filename = "nvmmn_instructionsDE.wav"; } visInstruct;
 sound {
     wavefile visInstruct;
     attenuation = 0.2;

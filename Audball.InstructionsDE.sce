@@ -1,4 +1,4 @@
-scenario = "Auditory Oddball Instructions (Korean Version)";
+scenario = "Auditory Oddball Instructions (German Version)";
 scenario_type = trials;
 
 # sets the default text font
